@@ -1,0 +1,3 @@
+- Melakukan presensi kehadiran pada LMS 
+- Melakukan register akun student pada aplas.polinema.ac.id
+- Melakukan fork pada repository kelas Mobile untuk update tugas - tugas yang akan datang
